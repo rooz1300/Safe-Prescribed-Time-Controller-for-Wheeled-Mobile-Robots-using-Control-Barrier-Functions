@@ -123,9 +123,6 @@ The MATLAB code is organized into a main script and several functions:
 4. Run the script. The simulation will execute, and plots will be generated, showing the performance of the safe prescribed-time controller.
 
 ---
-
-Let me know if you'd like this exported as a `.md` file or integrated into a GitHub `README.md`.
-
 ## Contact
 
 For any questions or collaborations, please refer to the authors listed in the paper:
