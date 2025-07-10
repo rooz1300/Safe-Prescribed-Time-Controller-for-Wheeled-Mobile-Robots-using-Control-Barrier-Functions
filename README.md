@@ -1,10 +1,12 @@
 # Safe-Prescribed-Time-Controller-for-Wheeled-Mobile-Robots-using-Control-Barrier-Functions
 
+---
 
 This repository contains MATLAB code for a novel control strategy for wheeled mobile robots (WMRs), integrating a prescribed-time controller with a Control Barrier Function (CBF) as a safety filter. This approach ensures that the robot precisely tracks a desired trajectory within a user-defined finite time while rigorously avoiding obstacles and unsafe zones.
 
 The methodology and implementation are based on the research article:
 **"Safe prescribed time controller for wheeled mobile robots by using control barrier functions as a safety filter"** by Ali Alavi Nasab, Roozbeh Badiei, and Mohammad Hassan Asemani, published in *ISA Transactions*, Volume 162, 2025, Pages 119-133.
+---
 
 ## Overview of the Control Methodology
 
@@ -127,6 +129,6 @@ Let me know if you'd like this exported as a `.md` file or integrated into a Git
 ## Contact
 
 For any questions or collaborations, please refer to the authors listed in the paper:
-* [cite_start]Ali Alavi Nasab (ali443@hafez.shirazu.ac.ir) [cite: 46]
-* [cite_start]Roozbeh Badiei (roozbeh_badie@alumni.iust.ac.ir) [cite: 46]
-* [cite_start]Mohammad Hassan Asemani (asemani@shirazu.ac.ir) [cite: 46]
+* Ali Alavi Nasab (ali443@hafez.shirazu.ac.ir) 
+* Roozbeh Badiei (roozbeh_badie@alumni.iust.ac.ir) 
+* Mohammad Hassan Asemani (asemani@shirazu.ac.ir)
