@@ -19,9 +19,6 @@
 % prescribed time controller for wheeled mobile robots by using control
 % barrier functions as a safety filter".
 %
-% Author: [Original Author Name]
-% Comments Added By: Gemini
-% Date: [Date of Commenting]
 %
 % =========================================================================
 
